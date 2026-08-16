@@ -226,3 +226,7 @@ wflow-consoleweb/src/main/webapp/wro/
 **/ignite/work/**
 
 wflow-consoleweb/${sys/catalina.home}/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
